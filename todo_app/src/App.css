@@ -12,7 +12,7 @@ code {
     monospace;
 }
 
-@charset "UTF-8";
+/* @charset "UTF-8"; */
 html,
 body {
   padding: 0;
